@@ -4,6 +4,7 @@
 Created on Wed Aug 10 17:26:07 2022
 
 @author: hereagain
+Encoding TCR sequences using both one-hot and AA index, make a dimension of 20*40.
 """
 
 import pandas as pd
